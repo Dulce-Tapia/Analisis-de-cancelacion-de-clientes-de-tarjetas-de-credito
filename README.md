@@ -34,22 +34,11 @@ Visualizar y comprender los factores relacionados con la **cancelación de clien
 - Análisis de cancelación por género, edad, nivel educativo y estado civil
 
 ## 📁 Archivos
-
-| Archivo | Descripción |
-|--------|-------------|
-| `Dashboard.pbix` | Archivo editable de Power BI |
-| `BankChurners.csv` | Dataset original |
-| `README.md` | Descripción del proyecto |
-| `/Dashboard_Screenshots/` | Capturas del dashboard para vista rápida |
-| `KPIs_DAX.md` | Código DAX de las medidas (opcional) |
-
-data
+Data
 - /BankChurners.csv
 Dashboard
-- /AnalisisEstrategicoMKT.sql
-- /Dashboard.
+- /Cancelacion_de_clientes.sql
 README.md
-
 
 ## 🧠 Lecciones aprendidas
 - Modelado y visualización efectiva con Power BI
